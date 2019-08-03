@@ -20,16 +20,16 @@ James Kirwa
 - Users can view the pitches on the index page of the application.<br>
 - Users can view various pitches  and vote on the pitch they liked by giving it an upvote or down vote<br>
 - Users can post pitches and view them on their profiles <br>
-- Users can comment on a pitch <br>
+- Users can comment on a pitch
 
 
 ## Set Up Instructions and Requirements
 
-- Clone this repository to your local computer.<br>
-- Ensure you have python3.6 installed in your computer.<br>
-- From the terminal navigate to the cloned project folder.<br>
-- Create a virtual environment and access the folder within the virtual environment.<br>
-- Create start.sh file and in it write the following lines:<br>
+- Clone this repository to your local computer.
+- Ensure you have python3.6 installed in your computer.
+- From the terminal navigate to the cloned project folder.
+- Create a virtual environment and access the folder within the virtual environment.
+- Create start.sh file and in it write the following lines
 - Run ./start.sh while in the project folder to start the project.
 
 ## Contributions
@@ -39,9 +39,10 @@ the changes you would like to make.
 
 ## Contact Information
 
-James Kirwa<br>
-Mobile:+2540795537545<br>
-Email:jameskirwa34@gmail.com<br>
+James Kirwa
+Mobile:+2540795537545
+Email:jameskirwa34@gmail.com
 
-<h2>License and Copyright Information</h2>
+## License and Copyright Information
+
 https://github.com/Jameskirwa/pitching/blob/master/LICENSE.md
