@@ -1,0 +1,30 @@
+{% macro displayPitchesList(pitch_list) %}
+
+    {% for pitch in pitch_list %}
+        <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2 panel bg">
+            <p>{{ pitch_content }}</p>
+            
+            <p class="text-center">{{pitch.pitch_content}}</p>
+            
+            <h5 class="text-center">Published by: {{pitch.user.username}}</h5>
+            <li class="text-center">
+                    <a href="/pitch/{{pitch.id}}">View pitch</a>
+                </li>
+        </div>
+
+    {% endfor %}
+
+{% endmacro %}
+{% macro displayComments(comments_list) %}
+    {% for comment in comments_list %}
+        <div class="col-md-12">
+            <h5>{{comment.user.username}}</h5>
+            <p>{{comment.comment}}</p>
+        </div>
+    {% endfor %}
+{% endmacro %}
+
+
+
+
+

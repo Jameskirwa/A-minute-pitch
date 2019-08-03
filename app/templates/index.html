@@ -1,0 +1,54 @@
+{% extends 'base.html'%}
+{% import 'macros.html' as macro%}
+
+
+
+
+    
+    {% block content %}
+    <div class ="categories">
+            <div class='container card  block' >
+    <h3 >Business</h3>
+    <ul>
+        {{ macro.displayPitchesList(business)}}
+    </ul>
+    </div>
+
+   
+            <div class='container card  block' >
+
+    <h3 > Science </h3>
+    <ul>
+        {{ macro.displayPitchesList(science)}}
+    </ul>
+    </div>
+    
+   
+            <div class='container card  block' >
+
+    <h3>Life</h3>
+    <ul>
+        {{ macro.displayPitchesList(life)}}
+    </ul>
+    
+    </div>
+    </div>
+    <style>
+        .categories {
+            flex-direction: row;
+            margin-left:35%;
+            
+            
+
+        }
+
+        body{
+            background-color: olive; 
+        }
+        h3{
+            color: white;
+        }
+    </style>
+    {% endblock%}  
+
+
