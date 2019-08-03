@@ -10,16 +10,16 @@ James Kirwa
 
 ## Technology Used
 
-- Python Flask mini framework<br>
-- Git version control<br>
-- Heroku: host live site<br>
+- Python Flask mini framework
+- Git version control
+- Heroku: host live site
 - Git: version control
 
 ## Behaviour Driven Development (BDD)
 
-- Users can view the pitches on the index page of the application.<br>
-- Users can view various pitches  and vote on the pitch they liked by giving it an upvote or down vote<br>
-- Users can post pitches and view them on their profiles <br>
+- Users can view the pitches on the index page of the application.
+- Users can view various pitches  and vote on the pitch they liked by giving it an upvote or down vote
+- Users can post pitches and view them on their profiles
 - Users can comment on a pitch
 
 
