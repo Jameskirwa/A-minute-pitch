@@ -1,12 +1,14 @@
-<h2>Pitch-App</h2>
+## Pitch-App
 
-<h2>Description</h2>
+## Description
+
 An application that allows users to write their own pitch in 60 seconds, login and out and create their own profile,comment on other people's pitches,view pitches for different categories and vote for the pitches.
 
-<h2>Author</h2>
+## Author
+
 James Kirwa
 
-<h2>Technology Used</h2>
+## Technology Used
 - Python Flask mini framework<br>
 - Git version control<br>
 - Heroku: host live site<br>
@@ -15,8 +17,8 @@ James Kirwa
 <h2>Behaviour Driven Development (BDD)</h2>
 - Users can view the pitches on the index page of the application.<br>
 - Users can view various pitches  and vote on the pitch they liked by giving it an upvote or down vote<br>
-- Users can post pitches and view them on their profiles<br>
-- Users can comment on a pitch<br>
+- Users can post pitches and view them on their profiles <br>
+- Users can comment on a pitch <br>
 
 
 <h2>Set Up Instructions and Requirements</h2>
