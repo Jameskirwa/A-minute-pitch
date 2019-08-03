@@ -1,4 +1,4 @@
-## Pitch-App
+# Pitching Application
 
 ## Description
 
@@ -22,7 +22,6 @@ James Kirwa
 - Users can post pitches and view them on their profiles
 - Users can comment on a pitch
 
-
 ## Set Up Instructions and Requirements
 
 - Clone this repository to your local computer.
@@ -42,7 +41,3 @@ the changes you would like to make.
 James Kirwa
 Mobile:+2540795537545
 Email:jameskirwa34@gmail.com
-
-## License and Copyright Information
-
-https://github.com/Jameskirwa/pitching/blob/master/LICENSE.md
