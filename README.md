@@ -4,7 +4,7 @@
 An application that allows users to write their own pitch in 60 seconds, login and out and create their own profile,comment on other people's pitches,view pitches for different categories and vote for the pitches.
 
 <h2>Author</h2>
-Esther Kirui
+James Kirwa
 
 <h2>Technology Used</h2>
 - Python Flask mini framework<br>
@@ -32,9 +32,9 @@ Contributions are welcome. It is recommended that you open an issue and discuss
 the changes you would like to make.
 
 <h2>Contact Information</h2>
-Esther Kirui<br>
-Mobile:+254775946131<br>
-Email:estherkc100@gmail.com<br>
+James Kirwa<br>
+Mobile:+2540795537545<br>
+Email:jameskirwa34@gmail.com<br>
 
 <h2>License and Copyright Information</h2>
-https://github.com/Eccie-K/pitching/blob/master/LICENSE.md
+https://github.com/Jameskirwa/pitching/blob/master/LICENSE.md
